@@ -1,0 +1,9 @@
+body{
+    background-color:rgba(12, 68, 68, 0.45);
+}
+.login_div1, .login_div2{
+    padding: 10px;
+    float:none;
+    border-radius : 15px;
+    background-color: crimson;
+}
